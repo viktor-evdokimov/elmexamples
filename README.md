@@ -10,4 +10,4 @@ While I am working on getting actual content here, please, check out this links 
 
 Any questions/ideas how to make this better? [open issue](https://github.com/viktor-evdokimov/elmexamples)
 
-- Viktor
+-Viktor
